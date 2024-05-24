@@ -4,7 +4,7 @@
 
 # Project Repository: [Project 4 - Streaming Multiple Consumers](https://github.com/tfmontague/streaming-04-multiple-consumers)
 
-## Project Objective
+## Project Objectives
 
 > Use RabbitMQ to distribute tasks to multiple workers
 
@@ -115,6 +115,7 @@ if __name__ == "__main__":
 
 Refactored v2 Consumer File
 ```python
+
 # Import necesssary modules
 
 import pika
@@ -333,4 +334,4 @@ Explore the RabbitMQ website.
 ## Screenshot
 
 See a running example with at least 3 concurrent process windows here:
-![alt text](image.png)
+![alt text](image2.png)
